@@ -6,12 +6,11 @@
 1. Set Up Your Environment
 Ensure you have Node.js and npm installed. Create a new directory for your project and initialize it with npm:
 
-download the package and 
+download the package and open ternimal then run:
 npm init -y
 
 2. Install Dependencies
 Install the necessary packages:
-
 
 npm install express mongoose passport passport-github2 express-session dotenv
 
